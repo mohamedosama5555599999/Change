@@ -1,0 +1,98 @@
+
+body{
+
+    height: 3000px;
+}
+
+/* Dollar */
+.money{
+    width: 70%;
+height: 400px;
+background-color: grey;
+position: relative;
+top: 90px; /* تعديل هذه القيمة حسب ارتفاع النافبار */
+margin: auto;
+border-radius: 15px;
+border: 7px solid #28a745;
+}
+/* Dollar */
+
+
+
+
+
+
+/* Euro */
+.money1{
+    width: 70%;
+height: 400px;
+background-color: grey;
+position: relative;
+top: 90px; /* تعديل هذه القيمة حسب ارتفاع النافبار */
+margin: auto;
+border-radius: 15px;
+border: 7px solid #007bff;
+}
+/* Euro */
+
+
+
+
+
+
+
+/* Stirling */
+.money2{
+width: 70%;
+height: 400px;
+background-color: grey;
+position: relative;
+top: 90px; /* تعديل هذه القيمة حسب ارتفاع النافبار */
+margin: auto;
+border-radius: 15px;
+border: 7px solid #343a40;
+}
+/* Stirling */
+
+
+
+
+
+
+
+
+/* Yuan */
+.money3{
+width: 70%;
+height: 400px;
+background-color: grey;
+position: relative;
+top: 90px; /* تعديل هذه القيمة حسب ارتفاع النافبار */
+margin: auto;
+border-radius: 15px;
+border: 7px solid #ffc107;
+}
+/* Yuan */
+
+
+
+
+
+
+
+hr{
+    margin-top: 170px;
+}
+
+
+
+
+
+.footer{
+
+    width: 90%;
+    height: 400px;
+    background-color: #343a40;
+    border-radius: 100px 100px 0px 0px;
+    
+}

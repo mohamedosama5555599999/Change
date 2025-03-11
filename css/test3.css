@@ -1,0 +1,24 @@
+.about {
+    width: 70%;
+    height: 600px;
+    background-color: white;
+    border: 5px solid black;
+    box-shadow: 5px 5px 10px black;
+    position: relative;
+    top: 90px; /* تعديل هذه القيمة حسب ارتفاع النافبار */
+    margin: auto;
+    border-radius: 15px;
+    }
+
+    .test1{
+        font-size: 39px;
+        
+
+    }
+
+
+
+
+
+
+   
